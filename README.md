@@ -1,6 +1,9 @@
 # SQL_DB_Homework
 Homework on SQL databases
 
+![{4E42DD82-F7C4-429D-B54E-50F3498B5275}](https://github.com/user-attachments/assets/10b4a127-9e6b-4a36-8c68-141c20f08076)
+
+
 1. Транспортные средства
 Задача 1
 
